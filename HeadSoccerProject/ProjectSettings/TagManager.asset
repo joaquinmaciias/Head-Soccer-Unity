@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - Player2
+  - Player1
+  - GoalLeft
+  - GoalRight
+  - matchManager
+  - pauseMenu
+  - preGameMenu
+  - extraTimeMenu
+  - endGameMenu
+  - trophy
+  - scoreboard
+  - stadiumBackground
+  - FlagP1
+  - FlagP2
+  - ScoreP1
+  - ScoreP2
+  - NameP1
+  - NameP2
+  - goalAnimation
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Menus
+  - Water
+  - UI
+  - groundLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: UI
+    uniqueID: 1654786843
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Menus
+    uniqueID: 175692899
+    locked: 0

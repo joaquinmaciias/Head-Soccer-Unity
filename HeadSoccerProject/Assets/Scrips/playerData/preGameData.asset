@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b89c9ba6b20b7f0498d86dfe2f0e2870, type: 3}
+  m_Name: preGameData
+  m_EditorClassIdentifier: 
+  P1Name: Falcao
+  P2Name: Benzema
+  P1HeadSprite: {fileID: 21300000, guid: 54d909c0ff5b64ffdb74ae4106e0ccf0, type: 3}
+  P2HeadSprite: {fileID: 21300000, guid: d4bd83b1e714b5746841cb2a28ca9938, type: 3}
+  P1BodySprite: {fileID: 21300000, guid: 8d3787e66bf3d4088a46d1888a85270c, type: 3}
+  P2BodySprite: {fileID: 21300000, guid: a489e591e631c86488e2c2fffc8b8547, type: 3}
+  P1FlagSprite: {fileID: 21300000, guid: d5a15846ed5f2954580a3a77971079f0, type: 3}
+  P2FlagSprite: {fileID: 21300000, guid: 1cc1d50b9867b3846aef0f76f0dbeea6, type: 3}
+  gameMode: survival

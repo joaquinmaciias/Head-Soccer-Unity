@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d95bd9e2a4350540a89f5085cff82b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player1: {instanceID: 0}
+  - player2: {instanceID: 0}
+  - stadium: {instanceID: 0}
+  - preGameData: {fileID: 11400000, guid: eb9cec1b20dad3449abf9de47bd730ae, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

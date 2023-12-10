@@ -58,11 +58,12 @@
     <Analyzer Include="C:\Program Files\Unity 2022.3.8f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scrips\Player\MovementPlayer2.cs" />
     <Compile Include="Assets\Scrips\Ball.cs" />
-    <Compile Include="Assets\Scrips\Player\MovementPlayer1.cs" />
-    <Compile Include="Assets\Scrips\Player\AI Player.cs" />
+    <Compile Include="Assets\Scrips\Player\MovementPlayerRight.cs" />
+    <Compile Include="Assets\Scrips\Player\MovementPlayerAI.cs" />
+    <Compile Include="Assets\Scrips\Player\ShootShoe.cs" />
     <Compile Include="Assets\background.cs" />
+    <Compile Include="Assets\Scrips\Player\MovementPlayerLeft.cs" />
     <Compile Include="Assets\Scrips\Background.cs" />
   </ItemGroup>
   <ItemGroup>

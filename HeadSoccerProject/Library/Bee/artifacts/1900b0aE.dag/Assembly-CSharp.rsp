@@ -355,9 +355,10 @@
 "Assets/background.cs"
 "Assets/Scrips/Background.cs"
 "Assets/Scrips/Ball.cs"
-"Assets/Scrips/Player/AI Player.cs"
-"Assets/Scrips/Player/MovementPlayer1.cs"
-"Assets/Scrips/Player/MovementPlayer2.cs"
+"Assets/Scrips/Player/MovementPlayerAI.cs"
+"Assets/Scrips/Player/MovementPlayerLeft.cs"
+"Assets/Scrips/Player/MovementPlayerRight.cs"
+"Assets/Scrips/Player/ShootShoe.cs"
 -langversion:9.0
 
 /deterministic
